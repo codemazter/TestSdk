@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget id="com.gopiselvam.scanner" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Simple Scanner</name>
+    <description>Test SDK</description>
+    <author email="er.gopiselvam@gmail.com" href="http://gopiappdeveloper.esy.es/">Gopi Selvam</author>
+    
+    <preference name="phonegap-version" value="3.7.0" />
+    <preference name="orientation" value="portrait" />
+    <preference name="target-device" value="universal" />
+    <preference name="webviewbounce" value="false" />
+    <preference name="prerendered-icon" value="true" />
+    <preference name="stay-in-webview" value="false" />
+    <preference name="ios-statusbarstyle" value="black-opaque" />
+    <preference name="detect-data-types" value="true" />
+    <preference name="exit-on-suspend" value="false" />
+    <preference name="show-splash-screen-spinner" value="true" />
+    <preference name="auto-hide-splash-screen" value="true" />
+    <preference name="disable-cursor" value="false" />
+    <preference name="android-minSdkVersion" value="7" />
+    <preference name="fullscreen" value="false" /> 
+    <preference name="android-windowSoftInputMode" value="stateHidden|adjustResize" />
+    
+    <plugin name="cordova-plugin-whitelist" version="1" />
+    <plugin name="cordova-plugin-compat" version="1" />
+    <plugin name="cordova-plugin-console" />
+    <plugin name="cordova-plugin-dialogs" />
+    <plugin name="cordova-plugin-network-information" />
+    
+    <!-- <gap:plugin name="org.apache.cordova.splashscreen" />
+    <gap:plugin name="org.apache.cordova.camera" />
+    <gap:plugin name="org.apache.cordova.dialogs" />
+    <gap:plugin name="org.apache.cordova.media" />
+    <gap:plugin name="org.apache.cordova.file-transfer" />
+    <gap:plugin name="org.apache.cordova.file" />
+    <gap:plugin name="org.apache.cordova.device" /> -->
+
+    <access origin="*" />
+</widget>
