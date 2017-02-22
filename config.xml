@@ -25,6 +25,7 @@
     <plugin name="cordova-plugin-console" />
     <plugin name="cordova-plugin-dialogs" />
     <plugin name="cordova-plugin-network-information" />
+    <plugin name="cordova-plugin-AcuantMobileSDK" />
     
     <!-- <gap:plugin name="org.apache.cordova.splashscreen" />
     <gap:plugin name="org.apache.cordova.camera" />
