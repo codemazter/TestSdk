@@ -26,6 +26,6 @@
     <plugin name="cordova-plugin-dialogs" />
     <plugin name="cordova-plugin-network-information" />
     <!-- <plugin name="com.acuant.plugin.AcuantMobileSDK" /> -->
-    <plugin name="cordova-plugin-AcuantMobileSDK" spec="https://github.com/codemazter/cordova-plugin-AcuantMobileSDK.git" />
+    <plugin name="cordova-plugin-AcuantMobileSDK" spec="https://github.com/codemazter/cordova-plugin-AcuantMobileSDK.git#2.2.0" />
     <access origin="*" />
 </widget>
