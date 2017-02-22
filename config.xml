@@ -4,7 +4,7 @@
     <description>Test SDK</description>
     <author email="er.gopiselvam@gmail.com" href="http://gopiappdeveloper.esy.es/">Gopi Selvam</author>
     
-    <preference name="phonegap-version" />
+    <preference name="phonegap-version" value="3.7.0" />
     <preference name="orientation" value="portrait" />
     <preference name="target-device" value="universal" />
     <preference name="webviewbounce" value="false" />
